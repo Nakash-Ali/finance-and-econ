@@ -1,0 +1,3 @@
+# Configuration for monetary_supply.py
+DOWNLOAD_NEW_DATA: false
+DATA_DIR: data

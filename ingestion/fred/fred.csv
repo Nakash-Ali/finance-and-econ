@@ -1,0 +1,7 @@
+series_name,fred_api_series_id,description
+m0,BOGMBASE,Monetary Base (M0)
+m1,M1SL,M1 Money Stock
+m2,M2SL,M2 Money Stock
+m2_real,M2REAL,Real M2 Money Stock
+cpi,CPIAUCSL,CPI All Urban Consumers
+nfp,PAYEMS,"Nonfarm Payrolls (Total, All Employees, Monthly, Seasonally Adjusted)"

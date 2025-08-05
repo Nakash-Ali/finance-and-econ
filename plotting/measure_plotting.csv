@@ -1,0 +1,5 @@
+is_active,series_names,title,y_axis_label
+N,m0|m1|m2,"Monetary Supply Measures (M0, M1, M2)",Billions of Dollars
+N,m2_real_derived|m2_real,"M2 Real (CPI Adjusted)",Billions of 1982-84 Dollars
+N,m0_real_derived|m1_real_derived|m2_real_derived,"Monetary Supply Measures (M0, M1, M2)",Billions of Dollars
+Y,nfp_delta_derived,"NFP",Thousands of Persons

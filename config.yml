@@ -1,3 +1,4 @@
 # Configuration for monetary_supply.py
-DOWNLOAD_NEW_DATA: false
+DOWNLOAD_NEW_DATA: true
+DATA_DOWNLOAD_MAX_FREQUENCY_MINS: 1440
 DATA_DIR: data
